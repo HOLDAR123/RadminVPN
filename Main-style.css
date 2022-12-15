@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    font-family: 'Open Sans',sans-serif;
+}
+.container-header{
+    height: 785px;
+    width: 100%;
+    background-image:url(img/Background-header.jpg);
+    
+    
+
+}
+span{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 300;
+    max-width: 1000px;
+    
+}
+.wrapper0{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: block;
+    margin: 0px auto;
+    height: 114px;
+    width: 1200px;
+    
+    
+}
+.container-logo{
+    padding: 67px 20px 0 55px;
+    float: left;
+    background: url(https://www.radmin-vpn.com/img/logo-03.png) left 62px no-repeat;
+    text-decoration: none;
+    
+}
+
+.container-text{
+    display: flex;;
+   justify-content: center;
+   align-items: center;
+   margin: 0px auto;
+    height: 400px;
+    width: 1200px;
+    text-align: center;
+    
+    color: white;;
+}
+.container-h1{
+    font-size: 64px;
+
+}
+.container-p{
+    font-size: 42px;
+    margin: -30px 0px 0px;
+    font-weight: 100;
+}
+.button-under{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.logo-under{
+    background: url(img/win10.png);
+}
+button{
+    background: #3498db;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 300;
+    padding: 15px 40px;
+    display: inline-block;
+    border-radius: 43px ;
+    text-decoration: none;
+}
