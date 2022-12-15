@@ -4,6 +4,7 @@ body{
 }
 div{
     font-family: 'Open Sans',sans-serif;
+    
 }
 .container-header{
     height: 785px;
@@ -45,7 +46,7 @@ span{
     height: 400px;
     width: 1200px;
     text-align: center;
-    
+   
     color: white;;
 }
 .container-h1{
@@ -71,8 +72,37 @@ button{
     color: #fff;
     font-size: 40px;
     font-weight: 300;
-    padding: 15px 40px;
+    padding: 20px 40px;
     display: inline-block;
     border-radius: 43px ;
+    border: 1px solid transparent ;
     text-decoration: none;
+    margin-top: 90px;
+}
+.list{
+   
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    color: #fff;
+    
+}
+.text1 , .text-1{
+    
+    list-style-type: none;
+}
+.text11{
+    
+    list-style-image:url(img/win10.png);
+}
+.text-11{
+    color: white;
+}
+.link1{
+    color: white;
+    text-decoration: underline;
+}
+.list-2{
+    color: #fff;
+    text-align: center;
 }
