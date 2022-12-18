@@ -106,3 +106,85 @@ button{
     color: #fff;
     text-align: center;
 }
+.container{
+    height: 602px;
+    width: 100%;
+    padding: 40px 0px;
+    margin: 0px 147px;
+    max-width: 1200px;
+}
+.h1-container{
+    margin: 40px 0px;
+   margin-left: 150px;
+    height: auto;
+    width: auto;
+    font-size: 48px;
+
+}
+.gallery{
+    margin:  40px 0px 40px 70px;
+    margin-top: -400px;
+    max-width: 480px;
+    width: 100%;
+    float: right;
+
+   
+}
+.p-container{
+    font-size:  30px;
+}
+.img-light{
+    margin-top: -435px;
+    margin-left: 320px;
+    float: right;
+    display: block;
+    position: absolute;
+}
+.img-dark{
+    margin-top: -300px;
+    margin-left: 320px;
+    float: right;
+    display: block;
+    position: absolute;
+}
+.wrapper{
+    height: 1000px;
+    width: 100%;
+    
+    padding: 10px 0;
+    background-color: #edf2f4;;
+}
+.blocks{
+    margin: 0 147px;
+}
+.center{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 48px;
+    margin: 40px 0px;
+
+}
+.icon1{
+    background:url(img/icons6.png);
+    width: 80px;
+    height: 80px;
+    margin: 15px 40px 0px 0px;
+    display: inline-block;
+}
+.mb0{
+    margin: 48px 0px 0px 120px;
+    margin-top: -80px;
+    font-size: 36px;
+    color:#3498db;
+}
+.hBlock-1{
+    margin-bottom: 50px;
+}
+.smalltext{
+    padding-left: 120px;
+    line-height: 40px;
+    font-size: 24px;
+    color: #222222;
+    font-weight: 300;
+}
